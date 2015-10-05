@@ -25,6 +25,13 @@ void bubble_sort(int *numbers, unsigned count) {
 	}
 }
 
+/*
+Nathaniel Steeby
+nsteeby
+14303784
+EECS 373 Homework #2
+*/
+
 void insertion_sort(int *numbers, unsigned count) {
 	int new[count];
 	unsigned new_count = 0;
